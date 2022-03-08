@@ -1,0 +1,12 @@
+https://www.analyticssteps.com/blogs/how-does-linear-and-logistic-regression-work-machine-learning
+
+https://scikit-learn.org/stable/developers/develop.html
+
+ Prediction using Supervised ML
+------------------------
+https://github.com/Himanshu0221/Task-1-Predict-the-percentage-of-an-student-based-on-the-no.-of-study-hours./blob/main/Task_1_Data_Science_%26_Data_Analytics.ipynb
+
+postgresql-database
+-----------------------
+https://towardsdatascience.com/sending-data-from-a-flask-app-to-postgresql-database-889304964bf2
+https://www.postgresqltutorial.com/postgresql-where/
